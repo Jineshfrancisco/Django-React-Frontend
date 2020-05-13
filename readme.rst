@@ -17,7 +17,7 @@ Bootstap 4.4.1
 
 This repo contains Django 2.2.12 . 
 please visit the `Django
-<https://djangoproject.org>`_ page.
+<https://djangoproject.com>`_ page.
 
 
 
@@ -55,13 +55,13 @@ of the Django User Guide.
 License
 *******
 
-Please see the `license`_ file.
+Please see the `license <https://github.com/Jineshfrancisco/Django-React-Frontend/blob/master/License>`_ file.
 
 *********
 Resources
 *********
 
--  `Django : <https://djangoproject.com>`_
+-  `Django : <https://docs.djangoproject.com/>`_
 -  `React <http://reactjs.org/>`_
 -  `Sass Guidelines <http://sass-guidelin.es/>`_
 -  `Bootstap <https://getbootstrap.com>`_
